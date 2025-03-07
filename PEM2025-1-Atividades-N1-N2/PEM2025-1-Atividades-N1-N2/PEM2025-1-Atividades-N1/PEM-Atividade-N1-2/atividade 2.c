@@ -4,7 +4,7 @@
 *          Prof. Veríssimo                               *
 *--------------------------------------------------------*
 * Objetivo do Programa: Vetor Multidimensional           *
-* Data - dd/mm/aaaa                                      * 
+* Data - 06/03/25                                        * 
 * Autor: alef vicente de figueiredo                      *
 *--------------------------------------------------------*/
 
